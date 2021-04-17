@@ -2,4 +2,5 @@ Me considero una persona organizada y responsable, y estoy lleno de ilusión y c
 
 Tecnologías
 ▪ 𝗟𝗲𝗻𝗴𝘂𝗮𝗷𝗲𝘀 𝗱𝗲 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰𝗶𝗼́𝗻 Java | Javascript | Node.js | C# |Python | Typescript
+
 ▪ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 Django | Intellij | Angular
