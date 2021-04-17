@@ -1,7 +1,8 @@
-Me considero una persona organizada y responsable, y estoy lleno de ilusión y curiosidad por aprender nuevas tecnologías. Apasionado de la programación en equipo y la resolución de problemas. Responder siempre con eficacia a las tareas que requiera con actitud positiva, iniciativa y compromiso.
+### Hi there!!
+Currently I am a student of degree in computer science and engineering, I like to program in various languages ​​and learn about new technologies. the programming languages ​​or platform are: 
 
-Tecnologías
+Technologies
 
-▪ 𝗟𝗲𝗻𝗴𝘂𝗮𝗷𝗲𝘀 𝗱𝗲 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰𝗶𝗼́𝗻 Java | Javascript | Node.js | C# |Python | Typescript
+▪ Programming languages Java | Javascript | Node.js | C# |Python | Typescript
 
-▪ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 Django | Intellij | Angular
+▪ Frameworks Django | Intellij | Angular
